@@ -1,8 +1,8 @@
-from tensorflow.keras import models
-from tensorflow.keras import layers
-from tensorflow.keras import optimizers
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.preprocessing import image
+from keras import models
+from keras import layers
+from keras import optimizers
+from keras.preprocessing.image import ImageDataGenerator
+from keras.preprocessing import image
 import numpy as np
 
 

@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from PIL import Image
-from tensorflow.keras import models
+from keras import models
 
 #Load the saved model
 model = models.load_model('model.h5')
